@@ -8,7 +8,7 @@
       <p><b>[Google Scholar](https://scholar.google.com/citations?user=uRyxDG0AAAAJ&hl=zh-CN)</b></p>
     </td>
     <td width="25%">
-      <img src="/xjpic.jpg" width="100%">      % 插入证件照代码
+      <img src="/xjpic.jpg" width="100%"> 
     </td>
   </tr>
 </table>
