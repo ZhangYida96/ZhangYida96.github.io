@@ -5,10 +5,10 @@
       <p><b>硕士研究生</b></p>
       <p><b>浙江大学信息与电子工程学院</b></p>
       <p><b>邮箱：zhyi@zju.edu.cn</b></p>
-      <p><b>Google Scholar https://scholar.google.com/citations?user=uRyxDG0AAAAJ&hl=zh-CN</b></p>
+      <p><b>[Google Scholar](https://scholar.google.com/citations?user=uRyxDG0AAAAJ&hl=zh-CN)</b></p>
     </td>
     <td width="25%">
-      <img src="/zhangyi.jpg" width="100%">      % 插入证件照代码
+      <img src="/xjpic.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
