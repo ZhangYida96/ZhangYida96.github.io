@@ -1,10 +1,17 @@
-### 个人信息
-#### 姓名 张易
-#### 学历 硕士
-#### 学校 浙江大学
-#### 邮箱 zhyi@zju.edu.cn
-#### Google Scholar https://scholar.google.com/citations?user=uRyxDG0AAAAJ&hl=zh-CN
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>张易</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>浙江大学信息与电子工程学院</b></p>
+      <p><b>邮箱：zhyi@zju.edu.cn</b></p>
+      <p><b>Google Scholar https://scholar.google.com/citations?user=uRyxDG0AAAAJ&hl=zh-CN</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhangyi.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ### 研究方向
 - 3D目标检测
